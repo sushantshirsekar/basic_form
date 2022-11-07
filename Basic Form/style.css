@@ -17,7 +17,7 @@ button{
     width: 404px;
     height: 402px;
     margin: auto;
-    background-color: lightgrey;
+    background-color: rgba(134, 126, 126, 0.658);
 }
 .msg{
     text-align: center;
