@@ -1,0 +1,29 @@
+body{
+    
+    margin-top: 141px;
+    background-image: url("background.jpg") ;
+    background-size: cover;
+}
+h2,form{
+    text-align: center;
+    padding: 13px;
+}
+
+button{
+    color: black;
+}
+.container{
+    border: 0.5px solid gray;
+    width: 404px;
+    height: 402px;
+    margin: auto;
+    background-color: lightgrey;
+}
+.msg{
+    text-align: center;
+    color: red;
+}
+.submitted{
+    text-align: center;
+    color: green;;
+}
